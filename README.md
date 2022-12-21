@@ -30,4 +30,4 @@ Code :
 In the project.py the data is retrieved and ables the user to chose between TV shows or movies. He can chose the genre and the number of ratings shown. 
 If the user enters the wrong argument, a message of error is shown.
 
-The columns Created and Modified were empty so they deleted. 
+The columns Modified and Description were empty so they deleted. 
