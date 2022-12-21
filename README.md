@@ -23,7 +23,7 @@ The CSV has the following columns :
 
 Tools used :
 
-The data is retrieved and copied into HDFS to then be treated. 
+The data is retrieved and copied into HDFS to then be treated with Spark. 
 
 Code :
 
